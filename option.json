@@ -20,7 +20,7 @@
         "title": "',
         "description": "",
         "destination": "name, city country of your proposal",
-        "type": "PRODUCT specific locations like buildings, museums, nature features, restaurant etc, or OPTION is everything else",
+        "type": "ONLY OPTION, NOT PRODUCT specific locations like buildings, museums, nature features, restaurant etc",
         "kind": "must-see or hidden-gem"
       }],
       "continuation": "Always ask if user saved any of provided suggestions and encourage to ask more questions and give more information about their trip planning"
@@ -80,7 +80,7 @@
         "title": "',
         "description": "",
         "destination": "name, city country of your proposal",
-        "type": "PRODUCT specific locations like buildings, museums, nature features, restaurant etc, or OPTION is everything else",
+        "type": "ONLY OPTION, NOT PRODUCT specific locations like buildings, museums, nature features, restaurant etc",
         "kind": "must-see or hidden-gem",
       }],
       "continuation": "Always ask if user saved any of provided suggestions and encourage to ask more questions and give more information about their trip planning"
@@ -95,7 +95,7 @@
         "title": "',
         "description": "",
         "destination": "name, city country of your proposal",
-        "type": "PRODUCT specific locations like buildings, museums, nature features, restaurant etc, or OPTION is everything else",
+        "type": "ONLY OPTION, NOT PRODUCT specific locations like buildings, museums, nature features, restaurant etc",
         "kind": "must-see or hidden-gem",
       }],
       "continuation": "Always ask if user saved any of provided suggestions and encourage to ask more questions and give more information about their trip planning"
@@ -116,7 +116,7 @@
         "title": "',
         "description": "",
         "destination": "name, city country of your proposal",
-        "type": "PRODUCT specific locations like buildings, museums, nature features, restaurant etc, or OPTION is everything else",
+        "type": "ONLY OPTION, NOT PRODUCT specific locations like buildings, museums, nature features, restaurant etc",
         "kind": "must-see or hidden-gem",
       }],
       "continuation": "Always ask if user saved any of provided suggestions and encourage to ask more questions and give more information about their trip planning"
@@ -137,7 +137,7 @@
         "title": "',
         "description": "",
         "destination": "name, city country of your proposal",
-        "type": "PRODUCT specific locations like buildings, museums, nature features, restaurant etc, or OPTION is everything else",
+        "type": "ONLY OPTION, NOT PRODUCT specific locations like buildings, museums, nature features, restaurant etc",
         "kind": "must-see or hidden-gem",
       }],
       "continuation": "Message that will check if user saved any of provided options and encourage to ask more questions and give more information about the planned trip"
